@@ -1,1 +1,1 @@
-#edudeals.club
+# edudeals.club
